@@ -2,4 +2,5 @@
 "# DevOps Final Industry Grade Project 1" 
 
 Current Completed Task:
-Auto Trigger Jenkins Clone and Build using MAVEN Job in Jnekins.
+1. Auto Trigger Jenkins Clone and Build using MAVEN Job in Jnekins.
+2. After completion of Task 1, trigger Unit Test Job
